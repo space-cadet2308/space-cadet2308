@@ -1,6 +1,5 @@
 <h1 align="center">Hey fellas 👋,Aryan this side</h1>
 <h3 align="center">A developer from India</h3>
-<marquee>---------------------------------------------------------------------------------------------------------------------------------------------------------------</marquee>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=space-cadet2308&label=Profile%20views&color=0e75b6&style=flat" alt="space-cadet2308" /> </p>
 
